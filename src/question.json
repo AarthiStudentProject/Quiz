@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "question":"What is the capital of France?",
+        "options":["Berlin","Madrid","Paris","Rome"],
+        "correctOption":"Paris"
+    },
+    {
+        "id":2,
+        "question":"What is the capital of India?",
+        "options":["Berlin","Madrid","Paris","Delhi"],
+        "correctOption":"Delhi"
+    },
+    {
+        "id":3,
+        "question":"What is the capital of United kingdom?",
+        "options":["Berlin","London","Paris","Rome"],
+        "correctOption":"London"
+    }
+]
